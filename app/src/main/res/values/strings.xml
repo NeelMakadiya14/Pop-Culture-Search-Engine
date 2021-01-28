@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopCulture</string>
+    <string name="enter_the_year_if_you_know">Enter the year if you know</string>
+    <string name="year">year</string>
+    <string name="enter_the_movie_name">Enter the movie/series name</string>
+    <string name="name">name</string>
+    <string name="pop_culture_search_engine">Pop Culture Search Engine</string>
+    <string name="title_activity_conformation">Conformation</string>
+    <string name="is_this_expected_output">If this is not an expected output...</string>
+    <string name="yes">Yes</string>
+</resources>
